@@ -23,6 +23,6 @@ I'm a software developer focusing on backend technologies, though I'm also skill
 
 #
 
-📍 Burlington, ON
+📍 Greater Toronto Area, ON, Canada
 
 📫 You can reach me on LinkedIn as @shinadam
