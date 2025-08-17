@@ -9,22 +9,6 @@ Python | TypeScript | SQL | FastAPI | NestJS | Spring | Java | GraphQL | Postgre
 
 ---
 
-**Bethink Labs – Backend Developer (ERC & TSP Middleware)**  
-- Developer for the **Emergency Remote Call system**, integrating Nissan APIs with middleware services across US, Canada, Mexico, and Brazil.  
-- Built and maintained **backend workflows** using GraphQL, AWS (SNS, SQS, ECS), and RabbitMQ, automating stolen vehicle responses.  
-- Contributed to the **TSP middleware project**, replacing legacy APIs with a **modern, scalable API architecture**.
-
-**ShuttleStats – Full-Stack Web Application**  
-- Built a web app to **track badminton game stats, performance insights, and ELO rankings** for registered users.  
-- Developed **JWT-based authentication and role management**, ensuring secure login and access control.  
-- Optimized backend to **handle up to 70 concurrent requests per minute**, supporting dozens of active users daily.
-
-**CareRx – Automation Developer**  
-- Designed and implemented a **Python automation system** to streamline client payment submissions, **reducing manual processing time by 70%** and eliminating errors.  
-- Completed a **3-month project in 1 month**, demonstrating efficiency and rapid system optimization.
-
----
-
 ### 📍 Location
 Greater Toronto Area, ON, Canada  
 
